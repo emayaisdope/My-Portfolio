@@ -29,3 +29,28 @@ h1 {
     background-color: #FEC5E5;
     font-family: "Lucida Console", Courier, monospace;
 }
+
+.mywork {
+    border: 10px solid whitesmoke;
+    border-radius: 15px;
+}
+
+div {
+    padding: 30px;
+}
+p {
+    margin: auto;
+}
+
+nav {
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    background-color: #FEC5E5;
+    border: 15px solid #fd5da8;
+}
+
+footer {
+    size: 100px;
+    background-color: #FEC5E5;
+}
